@@ -1,0 +1,28 @@
+Resposta Case 2
+
+Primeiramente a implementação de uma nova plataforma de gerenciamento de diretório em nuvem com recursos de MDM (Mobile Device Management), SSO (Single Sign-On) e ciclo de vida do usuário é um processo complexo que requer um planejamento cuidadoso e uma abordagem estruturada.
+Pois se for mal implementada causará transtornos tanto para a empresa quanto para os clientes.
+
+Precisamos Identificar os problemas e desafios existentes no atual sistema de gerenciamento de diretório e ciclo de vida do usuário, definindo metas claras e mensuráveis para a implementação da nova plataforma.
+
+- Equipe de Implementação:
+  É necessário ter uma equipe multidisciplinar composta por profissionais de TI, segurança da informação, RH e outros departamentos relevantes da empresa para atribuir responsabilidades específicas a cada membro da equipe e defina os líderes do projeto.
+
+- Projeto Detalhado:
+        Elaborar um plano de implementação detalhado, incluindo cronogramas, marcos e tarefas específicas.
+        Testes e Validação:
+        Realizar testes rigorosos em diferentes cenários para garantir que a nova plataforma funcione conforme o esperado.
+        Treinamento a usuários finais osbre como usar a nova plataforma, seus recursos e beneficios.
+       
+        
+- Preparação dos Dados:
+        Garantir que os dados de usuário estejam limpos, atualizados e compatíveis com o novo sistema. *Equipe de Analytics pode realizar essa tarefa*
+        Realizar uma migração de dados cuidadosa para evitar a perda de informações importantes.
+
+- Configuração da Plataforma:
+        Configurar a nova plataforma de acordo com os requisitos da empresa, incluindo definições de segurança, políticas de acesso e permissões.
+        Implementar os recursos de MDM e SSO de acordo com as melhores práticas de segurança.
+
+- Monitoramento Contínuo:
+        Após a implementação, devemos monitorar continuamente o desempenho da nova plataforma, a segurança e a satisfação dos usuários.
+        Ajustes serão necessários com base no feedback dos usuários e nas métricas de desempenho.
